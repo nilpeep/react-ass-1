@@ -1,0 +1,9 @@
+.navbar{
+    background-color: aquamarine;
+    display: flex;
+    gap: 0.5rem;
+
+}
+img{
+    width: 60px;
+}
